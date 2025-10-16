@@ -9,7 +9,7 @@ The pipeline automates data ingestion, transformation, and historical tracking u
 
 ## 🧱 Architecture Overview
 
-![Architecture Diagram](./img/scd_architecture.png)
+![Architecture Diagram](./img/pipeline_architecture.png)
 
 
 ### 🔹 Data Flow Summary
